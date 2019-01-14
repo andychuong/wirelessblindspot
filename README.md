@@ -25,7 +25,7 @@ Currently, this project has you remove the LiPo batteries and plug them in a cha
 ### Weather Proofing
 The sensor unit that is attached to the exterious of the vehicle would need to have some sort of weatherproofing added to it. The addition of some sort of gaskets would greatly improve this. 
 ### Size Reduction
-The footprint of our units isn't overly large, however I believe the size can be greatly reduced. To improve this, my first though would be to use a microcontroller such as the Adafruit Feather Bluefruit. This would combine our microcontroller with our bluetooth units. This would also solve our charging situation. Another idea would be to completely build our own circuit boards with everything we need implemented into the PCB. 
+The footprint of our units isn't overly large, however I believe the size can be greatly reduced. To improve this, my first though would be to use a microcontroller such as the Adafruit Feather Bluefruit. This would combine our microcontroller with our bluetooth units. This would also solve our charging situation. Another idea would be to completely build our own circuit boards with everything we need implemented into the PCB with surface mounted components. 
 
 ---
 ###### Done in collaboration with Sean Connolly, Elijah Fisk, and Alex Schwartz. 
