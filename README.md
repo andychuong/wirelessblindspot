@@ -7,6 +7,7 @@ This project is comprised of two unites, a receiver and a sensor. The sensor uni
 ## Technology
 - Arduino
 - Bluetooth
+- Eagle CAD
 
 ## Hardware
 - [2x SparkFun ProMicro 5v](https://www.sparkfun.com/products/12640)
