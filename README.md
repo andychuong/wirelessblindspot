@@ -22,7 +22,7 @@ More images [here](https://github.com/andychuong/wirelessblindspot/tree/master/I
 
 ## Going Futher
 ### Built in charging solution
-Currently, this project has you remove the LiPo batteries and plug them in a charger when they are out of charge. In the future, it woudl be nice to implement some kind of integrated setup to allow users to charge the batteries without disassembling the units. 
+Currently, this project has you remove the LiPo batteries and plug them in a charger when they are out of charge. In the future, it would be nice to implement some kind of integrated setup to allow users to charge the batteries without disassembling the units. 
 ### Weather Proofing
 The sensor unit that is attached to the exterious of the vehicle would need to have some sort of weatherproofing added to it. The addition of some sort of gaskets would greatly improve this. 
 ### Size Reduction
