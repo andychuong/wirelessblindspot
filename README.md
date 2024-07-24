@@ -16,9 +16,9 @@ This project is comprised of two unites, a receiver and a sensor. The sensor uni
 - [Individually Addressable LED Strip](https://www.amazon.com/ALITOVE-WS2812B-Individually-Addressable-Waterproof/dp/B00ZHB9M6A)
 
 ## Images
-More images [here](https://chuong.io/projects/blindspot.html)
-![Complete Units](https://chuong.io/img/blindspot-finish1.jpg)
-![Circuit boards](https://chuong.io/img/blindspot-pcb.jpg)
+More images [here](https://github.com/andychuong/wirelessblindspot/tree/master/Images)
+![Complete Units](https://github.com/andychuong/wirelessblindspot/blob/master/Images/blindspot-finish1.jpg?raw=true)
+![Circuit boards](https://github.com/andychuong/wirelessblindspot/blob/master/Images/blindspot-pcb.jpg?raw=true)
 
 ## Going Futher
 ### Built in charging solution
